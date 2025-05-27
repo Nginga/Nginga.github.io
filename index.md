@@ -10,6 +10,6 @@ quick_facts:
   - "🔬 Research: Monitoring Urban Air Pollution from Satelite Data using Machine Learning"
   - "📍 Based in Atlanta, GA"
   - "🚀 Passionate about VLSI and its intersection with software"
-linkedin:https://www.linkedin.com/in/elton-mawire-252004171/
+linkedin: https://www.linkedin.com/in/elton-mawire-252004171/
 image: /assets/images/me.jpg
 ---
