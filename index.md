@@ -11,5 +11,5 @@ quick_facts:
   - "📍 Based in Atlanta, GA"
   - "🚀 Passionate about VLSI and its intersection with software"
 linkedin: https://www.linkedin.com/in/elton-mawire-252004171/
-image: /assets/images/me.jpg
+image: assets/images/ELTON_MAWIRE.jpg
 ---
