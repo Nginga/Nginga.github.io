@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Elton Mawire
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Probing the fututre"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
+  - "🎓 Senior, Electrical Engineering @ Alabama A&M University"
+  - "🔬 Research: Monitoring Urban Air Pollution from Satelite Data using Machine Learning"
   - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🚀 Passionate about VLSI and its intersection with software"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin:https://www.linkedin.com/in/elton-mawire-252004171/
 image: /assets/images/me.jpg
 ---
