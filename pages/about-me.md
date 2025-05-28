@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Elton Mawire
   role: Senior, Electrical Engineering Major at Alabama A&M University
-  image:/assets/images/ELTON_MAWIRE.jpg
+  image: /assets/images/ELTON_MAWIRE.jpg
   linkedin: https://www.linkedin.com/in/elton-mawire-252004171/
   bio: |
     I’m rising Senior studying Electrical Engineering at Aabama A&M University. I expect to graduate in May 2026.
@@ -24,10 +24,10 @@ about:
   gallery:
     - image: /assets/images/Leapard_Paint.jpg
       caption: Some of my Paintin!
-    - image: assets/images/Swim_Lessons.jpg
+    - image: /assets/images/Swim_Lessons.jpg
       caption: Learning how to swim!
-    - image: assets/images/At-the-gym.jpg
+    - image: /assets/images/At-the-gym.jpg
       caption: After a good old workout!
-    - image: assets/images/Chip-on-wafer.jpg
+    - image: /assets/images/Chip-on-wafer.jpg
       caption: Chip from AAMU fabLab!
 ---
