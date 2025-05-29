@@ -4,23 +4,21 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Temidayo Fapohunda
+  title: Doctoral Student, School of Computer, Mathematical and Natural Sciences, Morgan State University
+  image: /assets/images/Temi.jpg
+  website: https://www.linkedin.com/in/temidayo-fapohunda-7ba686233/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Temi has been able to develop a model for predicting the relationship between respiratory diseases and environmental/climatic conditions in developed and developing countries using NASA GIOVANNI and Python and Cartography and GIS Techniques
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Xiaowen Li
+  title: Director of Climate Science Division
+  image: /assets/images/xiaowen_li.jpg
+  website: https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Xiaowen currently serves as the Director of the Climate Science Division in the School of Computer, Mathematics & Natural Sciences. She earned her bachelor’s degree in Atmospheric Sciences from Peking University, followed by a PhD in Geophysical Sciences from the University of Chicago. Dr. Li subsequently joined NASA Goddard Space Flight Center in Greenbelt, MD as a postdoc, and eventually ascending to a Senior Research Scientist affiliated with Morgan State University. She joined Climate Science Division at Morgan in Fall 2022. 
+
+    Dr. Li’s research interests include satellite meteorology, precipitation physics and dynamics, aerosol-cloud-precipitation interactions, regional atmosphere modeling, and climate sciences. Her recent interests include machine learning applications in atmospheric sciences, including data segmentation, microphysics parameterization and satellite data retrievals.
 
 ---
