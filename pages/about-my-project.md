@@ -3,7 +3,7 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
+subtitle: Monitoring Urban Air Pollution from Satelite Data Using Machine Learning
 project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
 
 problem: |
