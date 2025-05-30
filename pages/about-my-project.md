@@ -26,5 +26,5 @@ grad_mentor:
 
 faculty_mentor:
   name: Dr. Xiaowen Li
-  https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
+  https: //www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
 ---
