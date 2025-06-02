@@ -10,6 +10,7 @@ graduate_mentor:
   website: https://www.linkedin.com/in/temidayo-fapohunda-7ba686233/
   bio: |
     Temi has been able to develop a model for predicting the relationship between respiratory diseases and environmental/climatic conditions in developed and developing countries using NASA GIOVANNI and Python and Cartography and GIS Techniques
+    Temidayo Fapohunda had his background in Education,Geography and Planning with special in interest in environmental studies, pollution and human health. He is a Graduate Research Assistant in the GESTAR division and at present, in the final stage of his PhD in Bio-environmental Science under the supervision of Dr Richard Damoah, where he is developing a model to determine, analyse and map the relationship between pollution and respiratory disease in developing country. His publications include solving environmental deterioration issues, application of Cartography/GIS to analyze and map environmental /climate issues and human health.
 
 faculty_mentor:
   name: Dr. Xiaowen Li
