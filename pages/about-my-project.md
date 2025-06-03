@@ -13,7 +13,7 @@ problem: |
 
 
 approach: |
-  TBD
+  We will utilize satelite data and ground data in regions covered by both ground monitoring systems and satelites. The data will then be examined to train AI model so that we can predict ground data values in regions where we can only observe satelite data.
 
 outcome: |
   TBD
